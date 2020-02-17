@@ -29,8 +29,8 @@ Contact me: hldang(at)deakin.edu.au
 
 ## Other projects
 
-*  ĐT.020/18 - Research and developing experimental traffic monitoring systems using deep learning techniques for image recognition - Research topic at ministerial level - 2018
-* KC.01.23/16-20 - Research and developing the platform to deploy the application of artificial intelligence (AI) for electronic portals of state agencies - Research topic at ministerial level - 2019
+*  ĐT.020/18 - Research and developing traffic monitoring systems using deep learning techniques for image recognition - Research topic at ministerial level - 2018
+* KC.01.23/16-20 - Research and developing the artificial intelligence (AI) applications for E-Government portals - Research topic at ministerial level - 2019
 
 
 
