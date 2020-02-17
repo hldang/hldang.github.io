@@ -4,6 +4,7 @@ title: Hoang Long Dang
 ---
 
 I am a PhD student at A2I2, Deakin University, Australia
+
 My research interests:
 
 * Machine Learning and Pattern recognition
